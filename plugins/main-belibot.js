@@ -10,7 +10,7 @@ const ftroli = {
     status: 1,
     surface : 1,
     message: 'LiST PRICE JOIN GROUP', 
-    orderTitle: `Krizyn`,
+    orderTitle: `Ainul`,
     thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
     sellerJid: '0@s.whatsapp.net' 
     }
