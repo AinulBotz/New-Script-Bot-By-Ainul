@@ -1,7 +1,7 @@
 let handler = async (m, { conn }) => {
 let caption = `*📮: HALLO KAK SAYA AinulBotz,SILAHKAN KLIK BUTTON DI BAWAH UNTUK MENGETAHUI FITUR BOT*`
 
-conn.sendButton( m.chat, caption, `©️ ArullBotzMD`, `Menu`, `.menu`, m)
+conn.sendButton( m.chat, caption, `©️ AinulBotz`, `Menu`, `.menu`, m)
 
        }
        
