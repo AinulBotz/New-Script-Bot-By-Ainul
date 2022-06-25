@@ -3,7 +3,7 @@ let ye = `@${m.sender.split`@`[0]}`
 let esce = `
 Knp kak ${ye} Lagi Nyari Sc Ya? 
 
-𝘊𝘈𝘙𝘐 𝘈𝘑𝘈 𝘋𝘐 𝘠𝘖𝘜 𝘛𝘜𝘉𝘌
+Cari aja di github gw
 
 github:
 https://github.com/AinulBotz
