@@ -5,11 +5,11 @@ Knp kak ${ye} Lagi Nyari Sc Ya?
 
 𝘊𝘈𝘙𝘐 𝘈𝘑𝘈 𝘋𝘐 𝘠𝘖𝘜 𝘛𝘜𝘉𝘌
 
-𝚈𝙾𝚄 𝚃𝚄𝙱𝙴 :
-https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg
+github:
+https://github.com/AinulBotz
 
 JOIN GC BOT:
-https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS
+https://chat.whatsapp.com/CX2P0QnBXya9irl5xJJKH6
 
 conn.sendBut(m.chat, esce, 'Jangan Lupa subscribe ', 'Thanks', '.menu', m) 
 }
